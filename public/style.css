@@ -29,6 +29,7 @@ video {
 }
 
 .main__videos {
+    overflow-x: scroll;
     flex: 0.93;
     background-color: rgb(15, 15, 15);
     flex-grow: 1;
